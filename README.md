@@ -2,7 +2,7 @@
 
 🚀 DevOps Engineer | Cloud Specialist | Automation Enthusiast
 
-I'm a DevOps professional with 8+ years of experience designing, automating, and optimizing cloud infrastructure using cutting-edge tools and technologies. Passionate about building scalable, secure, and high-performance systems in AWS, Azure, and GCP.
+I'm a DevOps professional with good experience in designing, automating, and optimizing cloud infrastructure using cutting-edge tools and technologies. Passionate about building scalable, secure, and high-performance systems in AWS, Azure, and GCP.
 
 ---
 
